@@ -253,7 +253,7 @@ Mkdir /mnt/storage
 
 MAKE VFAT FILE SYSTEM:
 
-A virtual file allocation table (VFAT) is an extension to the file allocation table (FAT) from Windows 95 and onward for creating, storing and managing files with long names.
+A virtual file allocation table (VFAT) is an extension to the file allocation table (FAT) from Windows 95 and onward for creating, storing, and managing files with long names.
 
 Mkfs.vfat /dev/test/new
 
@@ -266,3 +266,15 @@ Vim /etc/fstab
 
 # Thank YOU!
 # Stay CONNECTED !!
+
+https://www.youtube.com/channel/UCNwP7KEElaJ7cdDTLP-KbBg
+
+https://www.linkedin.com/in/azizul-maqsud/
+
+https://azizulmaqsud-1684501031000.hashnode.dev/
+
+https://medium.com/@azizulmaqsud
+
+https://twitter.com/Sohail2me
+
+https://github.com/azizulmaqsud
