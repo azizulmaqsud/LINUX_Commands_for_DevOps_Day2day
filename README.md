@@ -191,7 +191,7 @@ Press n              [for new ]
 
 t                    [type for SWAP partition number is 82]
 
-w 		               [quit]
+:wq! 		               [quit]
 
 partprobe /dev/vda3  [To hit the kernel about new partition]
 
